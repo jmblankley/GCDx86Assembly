@@ -5,7 +5,7 @@
 
 ## Project Description
 
-This project is meant to learn assembly language.
+This project is meant to assist in learning assembly language. It takes in two values and uses the Euclidean algorithm for finding the GCD of the two numbers.
 
 ## Technologies Used
 
